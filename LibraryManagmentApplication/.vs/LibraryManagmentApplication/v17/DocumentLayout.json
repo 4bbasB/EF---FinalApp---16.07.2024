@@ -1,42 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{363F9B42-CFAF-4459-98FD-72F6B697397D}|LibraryManagmentApplication.UI\\LibraryManagmentApplication.UI.csproj|c:\\users\\lenovo\\desktop\\ef---finalapp---16.07.2024\\librarymanagmentapplication\\librarymanagmentapplication.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{363F9B42-CFAF-4459-98FD-72F6B697397D}|LibraryManagmentApplication.UI\\LibraryManagmentApplication.UI.csproj|c:\\users\\lenovo\\desktop\\programming\\ef---finalapp---16.07.2024\\librarymanagmentapplication\\librarymanagmentapplication.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{363F9B42-CFAF-4459-98FD-72F6B697397D}|LibraryManagmentApplication.UI\\LibraryManagmentApplication.UI.csproj|solutionrelative:librarymanagmentapplication.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47EF6D0C-9AF0-4A95-9752-52CF85A42394}|LibraryManagmentApplication.Core\\LibraryManagmentApplication.Core.csproj|c:\\users\\lenovo\\desktop\\ef---finalapp---16.07.2024\\librarymanagmentapplication\\librarymanagmentapplication.core\\configurations\\loanitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47EF6D0C-9AF0-4A95-9752-52CF85A42394}|LibraryManagmentApplication.Core\\LibraryManagmentApplication.Core.csproj|c:\\users\\lenovo\\desktop\\programming\\ef---finalapp---16.07.2024\\librarymanagmentapplication\\librarymanagmentapplication.core\\configurations\\loanitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47EF6D0C-9AF0-4A95-9752-52CF85A42394}|LibraryManagmentApplication.Core\\LibraryManagmentApplication.Core.csproj|solutionrelative:librarymanagmentapplication.core\\configurations\\loanitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|c:\\users\\lenovo\\desktop\\ef---finalapp---16.07.2024\\librarymanagmentapplication\\librarymanagmentapplication.business\\services\\implementations\\borrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|solutionrelative:librarymanagmentapplication.business\\services\\implementations\\borrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|c:\\users\\lenovo\\desktop\\ef---finalapp---16.07.2024\\librarymanagmentapplication\\librarymanagmentapplication.business\\services\\implementations\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|solutionrelative:librarymanagmentapplication.business\\services\\implementations\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|c:\\users\\lenovo\\desktop\\ef---finalapp---16.07.2024\\librarymanagmentapplication\\librarymanagmentapplication.business\\services\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|solutionrelative:librarymanagmentapplication.business\\services\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|c:\\users\\lenovo\\desktop\\ef---finalapp---16.07.2024\\librarymanagmentapplication\\librarymanagmentapplication.business\\services\\interfaces\\iborrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|c:\\users\\lenovo\\desktop\\programming\\ef---finalapp---16.07.2024\\librarymanagmentapplication\\librarymanagmentapplication.business\\services\\interfaces\\iborrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|solutionrelative:librarymanagmentapplication.business\\services\\interfaces\\iborrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|c:\\users\\lenovo\\desktop\\ef---finalapp---16.07.2024\\librarymanagmentapplication\\librarymanagmentapplication.business\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|c:\\users\\lenovo\\desktop\\programming\\ef---finalapp---16.07.2024\\librarymanagmentapplication\\librarymanagmentapplication.business\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|solutionrelative:librarymanagmentapplication.business\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|c:\\users\\lenovo\\desktop\\ef---finalapp---16.07.2024\\librarymanagmentapplication\\librarymanagmentapplication.business\\services\\interfaces\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|solutionrelative:librarymanagmentapplication.business\\services\\interfaces\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|c:\\users\\lenovo\\desktop\\programming\\ef---finalapp---16.07.2024\\librarymanagmentapplication\\librarymanagmentapplication.business\\services\\implementations\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|solutionrelative:librarymanagmentapplication.business\\services\\implementations\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCF265DD-34D1-45D0-B637-7F7F37410EA7}|LibraryManagmentApplication.Data\\LibraryManagmentApplication.Data.csproj|c:\\users\\lenovo\\desktop\\ef---finalapp---16.07.2024\\librarymanagmentapplication\\librarymanagmentapplication.data\\migrations\\20240716074305_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCF265DD-34D1-45D0-B637-7F7F37410EA7}|LibraryManagmentApplication.Data\\LibraryManagmentApplication.Data.csproj|solutionrelative:librarymanagmentapplication.data\\migrations\\20240716074305_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|c:\\users\\lenovo\\desktop\\programming\\ef---finalapp---16.07.2024\\librarymanagmentapplication\\librarymanagmentapplication.business\\services\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|solutionrelative:librarymanagmentapplication.business\\services\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|c:\\users\\lenovo\\desktop\\programming\\ef---finalapp---16.07.2024\\librarymanagmentapplication\\librarymanagmentapplication.business\\services\\implementations\\borrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|solutionrelative:librarymanagmentapplication.business\\services\\implementations\\borrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|c:\\users\\lenovo\\desktop\\programming\\ef---finalapp---16.07.2024\\librarymanagmentapplication\\librarymanagmentapplication.business\\services\\interfaces\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375F8D42-C387-4666-BBE9-7D77E147FE8F}|LibraryManagmentApplication.Business\\LibraryManagmentApplication.Business.csproj|solutionrelative:librarymanagmentapplication.business\\services\\interfaces\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,59 +50,61 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBorrowerService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Interfaces\\IBorrowerService.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentApplication.Business\\Services\\Interfaces\\IBorrowerService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Interfaces\\IBorrowerService.cs",
+              "RelativeToolTip": "LibraryManagmentApplication.Business\\Services\\Interfaces\\IBorrowerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:33:51.494Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LoanItemConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Core\\Configurations\\LoanItemConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Core\\Configurations\\LoanItemConfiguration.cs",
               "RelativeDocumentMoniker": "LibraryManagmentApplication.Core\\Configurations\\LoanItemConfiguration.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Core\\Configurations\\LoanItemConfiguration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Core\\Configurations\\LoanItemConfiguration.cs",
               "RelativeToolTip": "LibraryManagmentApplication.Core\\Configurations\\LoanItemConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T07:46:59.943Z"
+              "WhenOpened": "2024-07-16T07:46:59.943Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20240716074305_InitialMigration.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Data\\Migrations\\20240716074305_InitialMigration.cs",
-              "RelativeDocumentMoniker": "LibraryManagmentApplication.Data\\Migrations\\20240716074305_InitialMigration.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Data\\Migrations\\20240716074305_InitialMigration.cs",
-              "RelativeToolTip": "LibraryManagmentApplication.Data\\Migrations\\20240716074305_InitialMigration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.UI\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentApplication.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.UI\\Program.cs",
+              "RelativeToolTip": "LibraryManagmentApplication.UI\\Program.cs",
+              "ViewState": "AQIAAIABAAAAAAAAAAAAAIoBAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T07:43:05.757Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BorrowerService.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Implementations\\BorrowerService.cs",
-              "RelativeDocumentMoniker": "LibraryManagmentApplication.Business\\Services\\Implementations\\BorrowerService.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Implementations\\BorrowerService.cs",
-              "RelativeToolTip": "LibraryManagmentApplication.Business\\Services\\Implementations\\BorrowerService.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwB4AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T07:35:12.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookService.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Implementations\\BookService.cs",
-              "RelativeDocumentMoniker": "LibraryManagmentApplication.Business\\Services\\Implementations\\BookService.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Implementations\\BookService.cs",
-              "RelativeToolTip": "LibraryManagmentApplication.Business\\Services\\Implementations\\BookService.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAA5wDMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T07:34:23.395Z"
+              "WhenOpened": "2024-07-16T03:26:27.292Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentApplication.Business\\Services\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "LibraryManagmentApplication.Business\\Services\\Interfaces\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:33:40.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AuthorService.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Implementations\\AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Implementations\\AuthorService.cs",
               "RelativeDocumentMoniker": "LibraryManagmentApplication.Business\\Services\\Implementations\\AuthorService.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Implementations\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Implementations\\AuthorService.cs",
               "RelativeToolTip": "LibraryManagmentApplication.Business\\Services\\Implementations\\AuthorService.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAYwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,47 +113,34 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IBorrowerService.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Interfaces\\IBorrowerService.cs",
-              "RelativeDocumentMoniker": "LibraryManagmentApplication.Business\\Services\\Interfaces\\IBorrowerService.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Interfaces\\IBorrowerService.cs",
-              "RelativeToolTip": "LibraryManagmentApplication.Business\\Services\\Interfaces\\IBorrowerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Implementations\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentApplication.Business\\Services\\Implementations\\BookService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Implementations\\BookService.cs",
+              "RelativeToolTip": "LibraryManagmentApplication.Business\\Services\\Implementations\\BookService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T07:33:51.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.UI\\Program.cs",
-              "RelativeDocumentMoniker": "LibraryManagmentApplication.UI\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.UI\\Program.cs",
-              "RelativeToolTip": "LibraryManagmentApplication.UI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T03:26:27.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T07:34:23.395Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IBookService.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Interfaces\\IBookService.cs",
-              "RelativeDocumentMoniker": "LibraryManagmentApplication.Business\\Services\\Interfaces\\IBookService.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Interfaces\\IBookService.cs",
-              "RelativeToolTip": "LibraryManagmentApplication.Business\\Services\\Interfaces\\IBookService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Title": "BorrowerService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Implementations\\BorrowerService.cs",
+              "RelativeDocumentMoniker": "LibraryManagmentApplication.Business\\Services\\Implementations\\BorrowerService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Implementations\\BorrowerService.cs",
+              "RelativeToolTip": "LibraryManagmentApplication.Business\\Services\\Implementations\\BorrowerService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwB4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T07:33:40.019Z"
+              "WhenOpened": "2024-07-16T07:35:12.97Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "IAuthorService.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Interfaces\\IAuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Interfaces\\IAuthorService.cs",
               "RelativeDocumentMoniker": "LibraryManagmentApplication.Business\\Services\\Interfaces\\IAuthorService.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Interfaces\\IAuthorService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Business\\Services\\Interfaces\\IAuthorService.cs",
               "RelativeToolTip": "LibraryManagmentApplication.Business\\Services\\Interfaces\\IAuthorService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

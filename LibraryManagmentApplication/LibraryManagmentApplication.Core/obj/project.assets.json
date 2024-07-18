@@ -648,11 +648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Core\\LibraryManagmentApplication.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Core\\LibraryManagmentApplication.Core.csproj",
       "projectName": "LibraryManagmentApplication.Core",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Core\\LibraryManagmentApplication.Core.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Core\\LibraryManagmentApplication.Core.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Core\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

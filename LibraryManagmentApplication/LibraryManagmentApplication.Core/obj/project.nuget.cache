@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i44tLCvVtz0=",
+  "dgSpecHash": "umEo4eujDF0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Core\\LibraryManagmentApplication.Core.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Programming\\EF---FinalApp---16.07.2024\\LibraryManagmentApplication\\LibraryManagmentApplication.Core\\LibraryManagmentApplication.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.7\\microsoft.entityframeworkcore.8.0.7.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.7\\microsoft.entityframeworkcore.abstractions.8.0.7.nupkg.sha512",

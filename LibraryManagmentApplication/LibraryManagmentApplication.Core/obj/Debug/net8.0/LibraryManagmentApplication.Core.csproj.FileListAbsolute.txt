@@ -11,3 +11,16 @@ C:\Users\Lenovo\Desktop\LibraryManagmentApplication\LibraryManagmentApplication.
 C:\Users\Lenovo\Desktop\LibraryManagmentApplication\LibraryManagmentApplication.Core\obj\Debug\net8.0\refint\LibraryManagmentApplication.Core.dll
 C:\Users\Lenovo\Desktop\LibraryManagmentApplication\LibraryManagmentApplication.Core\obj\Debug\net8.0\LibraryManagmentApplication.Core.pdb
 C:\Users\Lenovo\Desktop\LibraryManagmentApplication\LibraryManagmentApplication.Core\obj\Debug\net8.0\ref\LibraryManagmentApplication.Core.dll
+C:\Users\Lenovo\Desktop\Programming\EF---FinalApp---16.07.2024\LibraryManagmentApplication\LibraryManagmentApplication.Core\bin\Debug\net8.0\LibraryManagmentApplication.Core.deps.json
+C:\Users\Lenovo\Desktop\Programming\EF---FinalApp---16.07.2024\LibraryManagmentApplication\LibraryManagmentApplication.Core\bin\Debug\net8.0\LibraryManagmentApplication.Core.dll
+C:\Users\Lenovo\Desktop\Programming\EF---FinalApp---16.07.2024\LibraryManagmentApplication\LibraryManagmentApplication.Core\bin\Debug\net8.0\LibraryManagmentApplication.Core.pdb
+C:\Users\Lenovo\Desktop\Programming\EF---FinalApp---16.07.2024\LibraryManagmentApplication\LibraryManagmentApplication.Core\obj\Debug\net8.0\LibraryManagmentApplication.Core.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Programming\EF---FinalApp---16.07.2024\LibraryManagmentApplication\LibraryManagmentApplication.Core\obj\Debug\net8.0\LibraryManagmentApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Programming\EF---FinalApp---16.07.2024\LibraryManagmentApplication\LibraryManagmentApplication.Core\obj\Debug\net8.0\LibraryManagmentApplication.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Programming\EF---FinalApp---16.07.2024\LibraryManagmentApplication\LibraryManagmentApplication.Core\obj\Debug\net8.0\LibraryManagmentApplication.Core.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Programming\EF---FinalApp---16.07.2024\LibraryManagmentApplication\LibraryManagmentApplication.Core\obj\Debug\net8.0\LibraryManagmentApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Programming\EF---FinalApp---16.07.2024\LibraryManagmentApplication\LibraryManagmentApplication.Core\obj\Debug\net8.0\LibraryManagmentApplication.Core.sourcelink.json
+C:\Users\Lenovo\Desktop\Programming\EF---FinalApp---16.07.2024\LibraryManagmentApplication\LibraryManagmentApplication.Core\obj\Debug\net8.0\LibraryManagmentApplication.Core.dll
+C:\Users\Lenovo\Desktop\Programming\EF---FinalApp---16.07.2024\LibraryManagmentApplication\LibraryManagmentApplication.Core\obj\Debug\net8.0\refint\LibraryManagmentApplication.Core.dll
+C:\Users\Lenovo\Desktop\Programming\EF---FinalApp---16.07.2024\LibraryManagmentApplication\LibraryManagmentApplication.Core\obj\Debug\net8.0\LibraryManagmentApplication.Core.pdb
+C:\Users\Lenovo\Desktop\Programming\EF---FinalApp---16.07.2024\LibraryManagmentApplication\LibraryManagmentApplication.Core\obj\Debug\net8.0\ref\LibraryManagmentApplication.Core.dll
